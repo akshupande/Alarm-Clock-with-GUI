@@ -18,7 +18,7 @@ To get started with the Alarm Clock with GUI project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/akshupande/Alarm-Clock-with-GUI.git`
 2. Navigate to the project directory: `cd Alarm-Clock-with-GUI`
-3. Install the required dependencies: `pip install -r requirements.txt`
+3. Install the required dependencies: `pip install datetime/tkinter`
 4. Run the main script: `python Alarm-Clock-with-GUI.py`
 
 ## Usage
